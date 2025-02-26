@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) on Credit Card Fraud Detection  
+# Credit Card Fraud Detection  
 
 ## Overview  
 
